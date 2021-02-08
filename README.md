@@ -48,7 +48,7 @@ Follow The Steps Below!
 > pkg install nodejs
 > pkg install tesseract
 > pkg install git -y
-> git clone https://github.com/miqbal-22/mybotv3
+> git clone https://github.com/ahmadzakibarimartin/HXLBOT
 > cd mybotv3
 > bash install.sh
 ```
