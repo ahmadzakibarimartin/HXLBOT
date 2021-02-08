@@ -378,22 +378,22 @@ async function starts() {
                         const q = args.join(' ')
 
 			mess = {
-				wait: '⌛ Sedang di Prosess, Sabar yaa ngentod ⌛',
-				success: '✔️ Berhasil tod ✔️',
+				wait: '⌛ Sedang di Prosess, Sabar yaa ⌛',
+				success: '✔️ Berhasil ✔️',
                                 levelon: '❬ ✔ ❭ *level diaktifkan*',
 				leveloff: ' ❬ X ❭  *level di nonaktifkan*',
 				levelnoton: '❬ X ❭ *level nya gk di aktif bodohh*',
-				levelnol: '*NGENTOD LEVEL LU MASIH* 0 °-°',
+				levelnol: '*LEVEL ANDA MASIH* 0 °-°',
 				error: {
 					stick: '[❗] Gagal tod, terjadi kesalahan saat pengubahan gambar ke sticker ❌',
 					Iv: '❌ Link nya gk valid ngentod ❌'
 				},
 				only: {
-					group: '[❗] Lu TOLOL ANJINK, Perintah ini hanya bisa di gunakan dalam group! ❌',
-					ownerG: '[❗] Lu bukan owner grup ngentod, Perintah ini hanya bisa di gunakan oleh owner group! ❌',
-					ownerB: '[❗] Lu sapa anjink ngentod, Perintah ini hanya bisa di gunakan oleh owner bot! ❌',
+					group: '[❗] Perintah ini hanya bisa di gunakan dalam group! ❌',
+					ownerG: '[❗] Perintah ini hanya bisa di gunakan oleh owner group! ❌',
+					ownerB: '[❗] Perintah ini hanya bisa di gunakan oleh owner bot! ❌',
 					admin: '[❗] Ahh bacot lu, lu itu cuma member yaa ngentod jadi jangan sok keras yaa anjink, Perintah ini hanya bisa di gunakan oleh admin group! ❌',
-					Badmin: '[❗] Jadiin gw admin dulu lah ngentod, Perintah ini hanya bisa di gunakan ketika bot menjadi admin! ❌',
+					Badmin: '[❗] Perintah ini hanya bisa di gunakan ketika bot menjadi admin! ❌',
                                         daftarB: `──「 BELUM REGISTER 」──\nHalo Ngentoters !\nLu kan belum Register nih tod, mending lu register dulu dahh... \n\nCommand : ${prefix}register nama|umur\nContoh : ${prefix}register Iqbal|17`,
 				}
 			}
@@ -424,8 +424,8 @@ async function starts() {
                         pushname = client.contacts[sender] != undefined ? client.contacts[sender].vname || client.contacts[sender].notify : undefined
 
                         // Options
-                        const botName = 'JINGAN BOT'
-                        const ownerName = 'Muhammad Iqbal'
+                        const botName = 'HXL BOT'
+                        const ownerName = 'Ahmad Zaki'
                         const BarBarKey = 'YOUR_APIKEY'
 
 			const isUrl = (url) => {
