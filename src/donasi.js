@@ -5,7 +5,7 @@ const donasi = () => {
 _“jauhilah api neraka, walau hanya dengan bersedekah setengah biji kurma atau satu biji kurma(sedikit). Jika kamu tidak punya, maka bisa dengan kalimah thayyibah” [HR. Bukhari 6539, Muslim 1016]_
 
 *Pulsa :* _083873394995_
-*Saweria*: _https://saweria.co/overlays/alert?streamKey=771db43463e343b4338ab82173dbbccf&template=baru+saja+memberikan&backgroundColor=%23faae2b&highlightColor=%23744fc9&color=%23333333&fontWeight=500&notificationTimeout=5000_
+*SaweriaSaweria:* _https://saweria.co/overlays/alert?streamKey=771db43463e343b4338ab82173dbbccf&template=baru+saja+memberikan&backgroundColor=%23faae2b&highlightColor=%23744fc9&color=%23333333&fontWeight=500&notificationTimeout=5000_
 
 }
 
