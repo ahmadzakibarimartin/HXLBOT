@@ -49,7 +49,7 @@ Follow The Steps Below!
 > pkg install tesseract
 > pkg install git -y
 > git clone https://github.com/ahmadzakibarimartin/HXLBOT
-> cd mybotv3
+> cd HXLBOT
 > bash install.sh
 ```
 
