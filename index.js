@@ -101,9 +101,9 @@ const { limit } = require('./database/menu/limit')
 // Load Vcard Contact
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Muhammad Iqbal\n' // full name
-            + 'ORG:Owner JINGAN BOT;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=6285745376798:+62 857-4537-6798\n' //Nomor whatsapp kamu
+            + 'FN:Ahmad Zaki\n' // full name
+            + 'ORG:Owner Ahmad Zaki;\n' // the organization of the contact
+            + 'TEL;type=CELL;type=VOICE;waid=6283873394995:+62 838-7339-4995\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 prefix = '.'
 blocked = []
